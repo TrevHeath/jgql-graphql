@@ -1,15 +1,10 @@
-<h1 align="center"><strong>Libraries.io Graphql API - WIP</strong></h1>
+<h1 align="center"><strong>GraphQL Gateway for Just GraphQL</strong></h1>
 
 <br />
 
-<div align="center"><img src="https://imgur.com/1MfnLVl.png" /></div>
-
-<div align="center"><strong>🚀 Query your favorite open source projects within seconds</strong></div>
-<div align="center">GraphQL API for Libraries.io - based on best practices from the GraphQL community.</div>
-
 ## Features
 
-- **Scalable GraphQL server:** The server uses [`graphql-yoga`](https://github.com/prisma/graphql-yoga) which is based on Apollo Server & Express
+
 - **Static type generation**: TypeScript types for GraphQL queries & mutations are generated in a build step
 - **Authentication**: Signup and login workflows are ready to use for your users
 - **GraphQL database:** Includes GraphQL database binding to [Prisma](https://www.prismagraphql.com) (running on MySQL)
